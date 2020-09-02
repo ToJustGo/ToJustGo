@@ -26,29 +26,12 @@ $header-thickness: 56px;
 
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body, html {
-  height: 100%;
-  margin: 0;
-}
-
-.bg {
-
-  background-image: url("assets/css/298323_971205758712_1188052401_n.jpg");
-
-  height: 100%; 
-
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+body {
+  background-image: url('{{ site.baseurl }}assets/css/298323_971205758712_1188052401_n.jpgg');
 }
 </style>
 </head>
-<body>
 
-<div class="bg"></div>
-
-</body>
 </html>
 
