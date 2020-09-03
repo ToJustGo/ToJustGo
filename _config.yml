@@ -9,8 +9,6 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-background: 298323_971205758712_1188052401_n.jpg
-
 sass:
   sass_dir: assets/css
   style: :nested
