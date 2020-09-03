@@ -12,7 +12,7 @@ menu:
 social:
 - {icon: 'twitter', link: 'https://twitter.com/ToJustGo'}
 - {icon: 'instagram', link: 'https://instagram.com/ToJustGo'}
-- {icon: 'envelope', link: 'mailto:ToJustGo@gmail.com'}
+- {icon: 'envelope', link: 'mailto:TJG@tojustgo.com'}
 
 # Customize site text
 pagination:
