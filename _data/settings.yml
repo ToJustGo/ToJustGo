@@ -6,14 +6,6 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
 
-menu:
-
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
-- {icon: 'twitter', link: 'https://twitter.com/ToJustGo'}
-- {icon: 'instagram', link: 'https://instagram.com/ToJustGo'}
-- {icon: 'envelope', link: 'mailto:TJG@tojustgo.com'}
-
 # Customize site text
 pagination:
   next_page: 
