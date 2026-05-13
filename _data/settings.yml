@@ -8,11 +8,7 @@ google-ID: 'UA-112060364-2'
 
 menu:
 
-# Available social icons are powered by Font Awesome, so you can use any icon that they offer
-social:
-- {icon: 'twitter', link: 'https://twitter.com/ToJustGo'}
-- {icon: 'instagram', link: 'https://instagram.com/ToJustGo'}
-- {icon: 'envelope', link: 'mailto:ToJustGo@gmail.com'}
+
 
 # Customize site text
 pagination:
